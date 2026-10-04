@@ -1,0 +1,43 @@
+{
+  "name": "mon-saas-media",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "browser-image-compression": "^2.0.2",
+    "canvas": "^3.2.3",
+    "docx": "^9.8.1",
+    "html2pdf.js": "^0.14.0",
+    "jszip": "^3.10.2",
+    "lucide-react": "^1.51.0",
+    "mammoth": "^1.13.0",
+    "next": "16.3.8",
+    "pako": "^3.0.2",
+    "pdf-lib": "^1.17.1",
+    "pdf2json": "^4.0.3",
+    "pdfjs-dist": "^3.11.174",
+    "pptxgenjs": "^4.0.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "react-easy-crop": "^6.2.3",
+    "unpdf": "^1.8.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/jszip": "^3.4.0",
+    "@types/node": "^20",
+    "@types/pako": "^2.0.4",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.8",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
